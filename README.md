@@ -1,6 +1,6 @@
 # React Fitness Application
 
-![Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+<!-- ![Fitness Application](https://i.ibb.co/Yt9spGc/image.png) -->
 
 ## Description
 
